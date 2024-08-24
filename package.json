@@ -1,0 +1,23 @@
+{
+    "name": "euclid",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "gulp"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^3.0.2",
+        "gulp": "^5.0.0",
+        "gulp-sass": "^5.1.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "sass": "^1.77.8"
+    },
+    "dependencies": {
+        "@types/gulp": "^4.0.17",
+        "gulp-dart-sass": "^1.1.0"
+    }
+}
