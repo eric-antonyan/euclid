@@ -21,12 +21,21 @@
         align-items: center;
     }
 
+    &__lists {
+        display: flex;
+        gap: 85px;
+        align-items: center;
+    }
+
     &__list {
         font-size: 18px;
         color: #000;
+        list-style-type: none;
     }
 
     &__list-link {
+        font-size: 18px;
+        font-weight: 600;
         text-decoration: none;
         color: inherit;
     }
